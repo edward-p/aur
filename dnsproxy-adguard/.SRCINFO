@@ -1,0 +1,16 @@
+pkgbase = dnsproxy-adguard
+	pkgdesc = Simple DNS proxy with DoH, DoT, and DNSCrypt support by AdguardTeam
+	pkgver = 0.19.5
+	pkgrel = 1
+	url = https://github.com/AdguardTeam/dnsproxy
+	arch = x86_64
+	license = Apache
+	makedepends = go
+	makedepends = git
+	source = dnsproxy-adguard.service
+	source = https://github.com/AdguardTeam/dnsproxy/archive/v0.19.5.tar.gz
+	sha256sums = fe3598144edf12bcdbfe2a9e7480a96fbbb345f74631d1f9c938b2d3e46c9c90
+	sha256sums = b32f032bf44b107441dda327acb5af637881159b44ad1f28f4dd40ceb069e121
+
+pkgname = dnsproxy-adguard
+
