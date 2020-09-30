@@ -1,0 +1,25 @@
+[__config__]
+oldver = "old_ver.txt"
+newver = "new_ver.txt"
+
+[dnsproxy-adguard]
+source = "github"
+github = "AdguardTeam/dnsproxy"
+prefix = "v"
+use_latest_release = true
+
+[netfilter-fullconenat-dkms-git]
+source = "github"
+github = "Chion82/netfilter-full-cone-nat"
+
+[go-stun-git]
+source = "github"
+github = "ccding/go-stun"
+
+[canta-kde-git]
+source = "github"
+github = "vinceliuice/Canta-kde"
+
+[httpflow-git]
+source = "github"
+github = "six-ddc/httpflow"
