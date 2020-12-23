@@ -19,7 +19,3 @@ github = "ccding/go-stun"
 [canta-kde-git]
 source = "github"
 github = "vinceliuice/Canta-kde"
-
-[httpflow-git]
-source = "github"
-github = "six-ddc/httpflow"
