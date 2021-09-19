@@ -2,12 +2,6 @@
 oldver = "old_ver.txt"
 newver = "new_ver.txt"
 
-[dnsproxy-adguard]
-source = "github"
-github = "AdguardTeam/dnsproxy"
-prefix = "v"
-use_latest_release = true
-
 [netfilter-fullconenat-dkms-git]
 source = "github"
 github = "Chion82/netfilter-full-cone-nat"
