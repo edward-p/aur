@@ -14,8 +14,3 @@ github = "ccding/go-stun"
 source = "github"
 github = "vinceliuice/Canta-kde"
 
-[projector]
-source = "github"
-github = "JetBrains/projector-client"
-prefix = "launcher-v"
-use_latest_release = true
