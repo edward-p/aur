@@ -10,3 +10,6 @@ github = "Chion82/netfilter-full-cone-nat"
 source = "github"
 github = "ccding/go-stun"
 
+[colloid-kde-theme-git]
+source = "github"
+github = "vinceliuice/colloid-kde"
