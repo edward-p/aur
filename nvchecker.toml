@@ -13,3 +13,8 @@ github = "ccding/go-stun"
 [colloid-kde-theme-git]
 source = "github"
 github = "vinceliuice/colloid-kde"
+
+[wimboot-bin]
+source = "github"
+github = "ipxe/wimboot"
+use_latest_release = true
