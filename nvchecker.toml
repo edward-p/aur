@@ -18,3 +18,7 @@ github = "vinceliuice/colloid-kde"
 source = "github"
 github = "ipxe/wimboot"
 use_latest_release = true
+
+[k5prog-git]
+source = "github"
+github = "sq5bpf/k5prog"
