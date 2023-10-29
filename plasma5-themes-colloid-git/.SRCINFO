@@ -1,4 +1,4 @@
-pkgbase = colloid-kde-theme-git
+pkgbase = plasma5-themes-colloid-git
 	pkgdesc = colloid theme for KDE Plasma
 	pkgver = r42.0b79bef
 	pkgrel = 1
@@ -12,8 +12,8 @@ pkgbase = colloid-kde-theme-git
 	optdepends = whitesur-icon-theme-git: matching icon theme
 	optdepends = whitesur-cursor-theme-git: matching cursor theme
 	optdepends = whitesur-gtk-theme-git: matching gtk theme
-	provides = colloid-kde-theme
+	provides = plasma5-themes-colloid
 	source = git+https://github.com/vinceliuice/Colloid-kde.git
 	sha256sums = SKIP
 
-pkgname = colloid-kde-theme-git
+pkgname = plasma5-themes-colloid-git
